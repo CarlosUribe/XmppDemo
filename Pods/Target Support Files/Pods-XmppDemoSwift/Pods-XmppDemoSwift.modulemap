@@ -1,0 +1,6 @@
+framework module Pods_XmppDemoSwift {
+  umbrella header "Pods-XmppDemoSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
